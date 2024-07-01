@@ -1,0 +1,6 @@
+com\mycompany\aplikasidata\DatabaseStorage.class
+com\mycompany\aplikasidata\DataStorage.class
+com\mycompany\aplikasidata\MemoryStorage1.class
+com\mycompany\aplikasidata\AplikasiData.class
+com\mycompany\aplikasidata\FileStorage.class
+com\mycompany\aplikasidata\MemoryStorage2.class
